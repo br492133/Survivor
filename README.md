@@ -9,7 +9,7 @@
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 Survivor and large-format reality TV game shows pit competitors against each other to win large sums of money. Survivor in particular is a long running show consisting of 40 seasons, the winner of each season receives a million dollars. These competitions generally follow a deterministic structure (e.g. one player will win, a player is guaranteed to 
 
-### - EDIT/Alternate
+### - EDIT
 Survivor provides a unique format that samples a large portion of the total American demographic across a broad spectrum of challenging situaiton. This unique 'laboratory' provides opportunity to study a litny of human interaction variables and well as personal performance dimensions under a series of variables that are otherwise difficult to replicate. The model provided by the survivor format allows for a detailed study of cohort mentality, specifically as it relates to cooperative behaviors in a competetive situation where only one person will ultimately win. 
 
 (Add real-world examples, if any)
