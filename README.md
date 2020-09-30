@@ -63,7 +63,14 @@ Applicability of Nash-equilibrium to Survivor strategy (if any? If so, is it pre
  
  
 ## Related Work
- 
+
+Concerining Survivor specifically, there is a lack of literature and study regarding demographic performance data and how to win the game. Most "research" is published in on fansites and other sources that lack peer review. There is, however, some superficial study that compares a few seasons and the racial and gender issues that might confront contestants, although none of the studies employ quantative mechanisms of study.
+
+Regarding team work in competetive and non-competetive settings there is a much broader canon of literature, however this literature is limited to organizations and high performing or low performing organizations correlated to results and outcome types. There is little research relating to individual performance within a team and later successes they obtain. Research at the individual level is focused on the leader and not just on the team members (accepting team performance as a wrapper for individual team member performance). As such, there is a wide body of literature and a general acceptance of the idea that high performance teams can both generate/propel leadership attribute in the individual to a level of greatness, and that great leaders can make great teams and bad leaders maek bad teams.
+
+There is still seems to be a void of information regarding cooperative actions taken to advance individual standing in the long run during zero-sum hybrid competetive-collaborative game play. Further literature review is pending, however.
+
+
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 Someone’s initial work
 https://www.tapatalk.com/groups/survivorsucks/john-nash-s-survivor-t10010.html#.V0o2BNdM6O0
