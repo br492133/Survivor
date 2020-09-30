@@ -1,13 +1,17 @@
 # Research Practicum 2020 – Research Plan 
  
-> * Group Name: (Will decide later, working name 'The Survivors')
+> * Group Name: The Survivors
 > * Group participants names: Allen, Michael; Kriznar, Austin; Williams, Jessica
-> * Project Title: (Will decide later, working name 'Investigating Nash Equilibrium & Backwards Induction Strategy In Deterministic Games - Survivor' )  
+> * Project Title: (Will decide later, working name Something about cooperative play vs individual performance in individual competitions )  
  
 ## General Introduction
  
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 Survivor and large-format reality TV game shows pit competitors against each other to win large sums of money. Survivor in particular is a long running show consisting of 40 seasons, the winner of each season receives a million dollars. These competitions generally follow a deterministic structure (e.g. one player will win, a player is guaranteed to 
+
+### - EDIT/Alternate
+Survivor provides a unique format that samples a large portion of the total American demographic across a broad spectrum of challenging situaiton. This unique 'laboratory' provides opportunity to study a litny of human interaction variables and well as personal performance dimensions under a series of variables that are otherwise difficult to replicate. The model provided by the survivor format allows for a detailed study of cohort mentality, specifically as it relates to cooperative behaviors in a competetive situation where only one person will ultimately win. 
+
 (Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
  
@@ -58,8 +62,8 @@ Applicability of Nash-equilibrium to Survivor strategy (if any? If so, is it pre
 (Contributions. An enumeration of the contributions of the senior design project)
  
 (This project makes the following contributions:)(you must have this!!)
-•          (Contribution 1)
-•          (Contribution 2)
+•   Research into team dynamics, specifically, if individual performance within the team affects (positively or negatively) the individuals final outcome.
+•   A model for cohort cooperation and competetive advantage
  
  
 ## Related Work
@@ -89,6 +93,8 @@ https://www.reddit.com/r/survivor/comments/4lizog/game_theory_and_leadership_on_
  
 ___________________________________
 The final project will consist of a: (1) Pitch - team formation, (2) proposal,  (3) midpoint review, (brief) presentation (~ 15min), and a final paper/code/data. This will be a group work project of a small team.
+
+
 Look at the winner from a season and their team’s performance in team-based activities given throughout the season and measure team performance, compare performance scores across all of the teams that season’s winner participated in for challenges to see score trends
 Do higher team performance measures correlate with overall survivor game performance (i.e., are the teams that the winner of survivor is on better performing than other teams on average)?
 
