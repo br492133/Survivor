@@ -126,12 +126,24 @@ The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtr
 chop in visuals?)<br>
 
 **Facets of Teamwork Quality**<br>
+![image](images/hog_facets.PNG)<br>
+
+
+
+
+
 > Communication<br>
+>* 
 > Coordination<br>
+>
 > Balance of Member Contributions<br>
+>
 > Mutual Support<br>
+>
 > Effort<br>
+>
 > Cohesion<br>
+>
 
 **Quantity advanced to the Final 4** <br>
 
