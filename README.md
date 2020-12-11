@@ -1,48 +1,57 @@
-# Research Practicum 2020 – Research Plan 
- 
-> * Group Name: The Survivors
+### Research Practicum 2020 – Research Plan 
+
+##Project Title: 
+#Teamwork quality and individual opportunity for success through the reality TV show survivor.
+
+
+ * Team Name: The Survivors
 > 
-> * Group participants names: Jessica Williams, Austin Kriznar, Michael Allen
-> 
-> * Project Title: Investigation of Teamwork Quality and Individual Opportunity for Success in post-collaboration competition using the Reality TV Show Survivor 
+ * Team Member Names:
+>Michael Allen
+>Austin Kriznar 
+>Jessica Williams
+
+
 
 
 # General Introduction
 
-**Topic:**
-What can the reality TV show Survivor show us about teh realitionship between the facets of teamwrok quality, teamwork wuality as a whole, and the opportunity to succeed in post-collaborative 
+**Topic:**<br>
+This study uses Survivor as a series of case studies to evaluate measures of teamwork quality and evaluate opportunity or success. This study ultimately seeks to answer the economy of effort question all individual on a team face: Is it more advantageous to focus on personal ambition or the quality of the team?<br>
 
 **Definitions:**
 
-<ins>Post-Collaboration competition:</ins> The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain.
+<ins>Post-collaboration / post-project:</ins> The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain.  <<<<< Do we need this one?
 
-<ins>Teamwork Quality:</ins> A measure of collaboration as measured by the facets of communication, coordination, balance of member contributions, mutual support, effort, and cohesion. (Hoegl & Gemuenden, 2001)
+<ins>Teamwork Quality:</ins> A measure of collaboration as measured by the facets of communication, coordination, balance of member contributions, mutual support, effort, and cohesion. (Hoegl & Gemuenden, 2001)<br>
 
-<ins>Team Success:</ins> the extent to which a team meets established objectives. (Hoegl & Gemuenden, 2001)
+<ins>Team Success:</ins> the extent to which a team meets established objectives. (Hoegl & Gemuenden, 2001)<br>
 
-<ins>Individual Opportunity for Success:</ins> the opportunity to compete in a post-collaboration competition.
+<ins>Opportunity for Success:</ins> the opportunity to compete in a post-collaboration competition. Placing in the Final 4.<br>
 
-<ins>Individual Success:</ins> An individual winning the post-collaboration competition.
+<ins>Individual Success:</ins> Winning the post-collaboration competition or post-project reward. The Sole Survivor.<br>
 
-**Assumptions:**
+**Assumptions:**    <<<<<<<<<<<<<<<<<<<
 
-**Limitations:**
+**Limitations:**   <<<<<<<<<<<<<<<<
 
 
-[comment]: <> (States your motivation clearly: why is it important / interesting to solve this problem?)
 
 ## Introduction
-Ad hoc teams dominate the professional and academic landscape. Individuals are brought together from a wide variety of backgrounds and interests and made to work towards a common goal. This technique is prolific because a functional team is greater than the sum of its parts and when functioning properly, generates significantly better results than an individual working alone.
+Teamwork dominates the professional and academic landscape. It is difficult to find a job that does not involve some measure of teamwork or to pass an interview without demonstrating some evidence of having functioned as a member of a team. **CCC** Combining skilled individuals onto teams is a way to maximize creative talent, cross-level skills, and produce a much stronger product that one individual working alone. When teams are aligned towards a common goal, productivity can usually be assumed, and outcomes will approach optimization. <br>
 
-A common assumption is that individuals should be motivated to dedicate personal effort towards team success because the individual succeeds as the team succeeds. However, with many team projects there are post-project rewards such as individual commendations, promotions, and various other follow-on opportunities that result at project closure and appear as a zero-sum competition. As is repeatedly evidenced in modern business culture, individuals can emerge heroic covered in the ashes of their failed team projects, and superstars can be completely overshadowed by the success of their team.
+However, teams are still made of individuals and people live individual lives and enjoy individual recognition and rewards. Leaders struggle to find ways to motivate individual to commit to team goals and often resort to introducing individual rewards. Introducing individual rewards can create a conflict of interest and a aggravate the ever-present challenge of maintaining balance between individual and collective goals.<br>
 
-It is largely accepted that high teamwork quality produces more team success. It is also accepted that individual effort and attitudes within the team directly affect teamwork quality. From these ideas one can easily deduce that an individual wanting team success should dedicate effort toward increasing teamwork quality.
+Background
 
-However, given that there are competitive opportunities for advancement extended to individuals following most projects, the individual is presented with an economy of effort dilemma: Is it more individually beneficial to focus effort primarily on winning the individual post-project competitions, or to focus on enhancing teamwork quality? Taken in consideration of the idea that individual team member attitude is a driver of team success, there is clear potential for conflict, team malfunction, and failure if individual goals supersede team objectives.
+In the current professional setting, teams are purpose built, meaning they are not created simply for the sake of being. This specific purpose may present itself in a way that inherently defines success differently for the team and the individual members of the team (Brown et al., 2016). Teams are also typically brought together in an Ad hoc fashion (Stone et al., 2010) and composed of multidisciplinary or transdisciplinary elements (Flowers et al., 2000). The transdisciplinary nature of these teams means that they already come at problems, and even teamwork, from different vantage points (Zeigler, 1990). This complicates attempts to maintain a singular focus on team objectives, particularly because interests and goals may not be aligned at the disciplinary level, let alone the individual level (Garrett-Jones et al., 2005). <br>
 
-This study will examine teamwork quality and individual success as present in the reality TV show Survivor in an effort to determine the relationship between teamwork quality and individual team member opportunity for success in post-project competitions. 
+The rift that often misaligns team and individual goals is further exacerbated by the existence of individual rewards that are extraneous, or at least tangential to, the overall team goal. These include individual rewards like personal recognition for contributions, a promotion going to the highest performing member of the team, or a follow-on research grant. Individuals competing for individual goals beyond the larger team goal can have an impact on overall team success.<br>
 
-If it is found that teamwork quality is positively correlated with individual opportunity for success, it will confirm that, regardless of personal ambitions to win post-collaboration competitions, the individual should pursue a course of action that increases teamwork quality, and by extension team success.
+
+
+
+
 
 **Purpose Statement**
 The purpose of this study is to determine which individual attitude towards teamwork quality during the collaborative period of team projects is the best mechanism to maximize team member opportunity for success in related post-collaboration competition(s) and to determine which facets of teamwork quality have the greatest effect on that end.
