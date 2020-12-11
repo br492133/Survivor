@@ -111,8 +111,8 @@ The survivor model offers several factors that make it an excellent sample set f
 
 During the team phase of competition, the winner-take-all nature of the overall contest is overtly known to all contestants, as is the fact that only the Final 4 get the opportunity to compete for the overall prize.<br>
 
-**Survivor Gameplay**
-![image](images/blind)game.PNG)
+**Survivor Gameplay**<br>
+![image](images/blind_game.PNG)
 
 
 ### Tool<br>
