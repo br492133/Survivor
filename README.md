@@ -87,13 +87,13 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 ## Hypotheses<br>
 
-</ins>H1:</ins> Some facets of TWQ will be significant indicators of opportunity for success for teams <br>
+<ins>H1:</ins> Some facets of TWQ will be significant indicators of opportunity for success for teams <br>
 
-</ins>H2:</ins> Teams that win more will have greater overall TWQ scores<br>
+<ins>H2:</ins> Teams that win more will have greater overall TWQ scores<br>
 
-</ins>H3</ins> (Pending H1 and H2): Winning teams will have higher TWQ factor scores when containing a season winner. <br>
+<ins>H3</ins> (Pending H1 and H2): Winning teams will have higher TWQ factor scores when containing a season winner. <br>
 
-</ins>H4</ins> (Pending H3): Teams that score higher in overall TWQ will place more contestants in the Final 4 (e.g., wider ranges for opportunities for success).<br>
+<ins>H4</ins> (Pending H3): Teams that score higher in overall TWQ will place more contestants in the Final 4 (e.g., wider ranges for opportunities for success).<br>
 
 
 
