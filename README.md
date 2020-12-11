@@ -128,23 +128,6 @@ chop in visuals?)<br>
 **Facets of Teamwork Quality**<br>
 ![image](images/hog_facets.PNG)<br>
 
-
-
-
-
-> Communication<br>
->* 
-> Coordination<br>
->
-> Balance of Member Contributions<br>
->
-> Mutual Support<br>
->
-> Effort<br>
->
-> Cohesion<br>
->
-
 **Quantity advanced to the Final 4** <br>
 
 **Presence of Sole Survivor** <br>
