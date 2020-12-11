@@ -42,8 +42,8 @@ However, teams are still made of individuals and people live individual lives an
 In the current professional setting, teams are purpose built, meaning they are not created simply for the sake of being. This specific purpose may present itself in a way that inherently defines success differently for the team and the individual members of the team (Brown et al., 2016). Teams are also typically brought together in an Ad hoc fashion (Stone et al., 2010) and composed of multidisciplinary or transdisciplinary elements (Flowers et al., 2000). The transdisciplinary nature of these teams means that they already come at problems, and even teamwork, from different vantage points (Zeigler, 1990). This complicates attempts to maintain a singular focus on team objectives, particularly because interests and goals may not be aligned at the disciplinary level, let alone the individual level (Garrett-Jones et al., 2005). <br>
 
 The rift that often misaligns team and individual goals is further exacerbated by the existence of individual rewards that are extraneous, or at least tangential to, the overall team goal. These include individual rewards like personal recognition for contributions, a promotion going to the highest performing member of the team, or a follow-on research grant. Individuals competing for individual goals beyond the larger team goal can have an impact on overall team success.<br>
-
-
+>>>>>> chesk this might ditch or expand
+The competitive construct within the Survivor model pits 20 contestants against one another in a winner-take-all contest for $1,000,000. Players begin on a randomly assigned Ad hoc team and compete against the other team in a series of ‘challenges’. The losing team sends one individual home. Gameplay continues in this fashion until the two teams ‘merge’ into one tribe and the individual phase of the competition begins. The game then continues as a series of individual contests where one person is eliminated until the Final 4 contestants compete for overall victory in the final episode. 
 
 
 
@@ -99,17 +99,22 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 # RESEARCH METHOD
 
-Raters will observe pre-recorded The reality TV show Survivor provides an ideal scenario for testing the variables presented by the problem that is the focus of this study.
+What is the name of this method Qual Quant something clever
 
-Survivor consists of a team collaboration period and an individual post-collaboration period. Teams are Ad hoc and compete in a wide array of cognitive and physical team challenges, and only one individual ultimately wins the competition.
+## Aparatus<br>
 
-For the purposes of this study the following details apply:
+### Model<br>
 
-<ins>Sample Population:</ins> Survivor contestants (taken as a cross-section of the US demographic)
+The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. Contestants initially compete as part of Ad hoc teams. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. 
+During the team phase of competition, the winner-take-all nature of the overall contest is overtly known to all contestants, as is the fact that only the Final 4 get the opportunity to compete for the overall prize.<br>
 
-<ins>Sample Size:</ins> 80-120 (this represents 2-3 teams in each of 40 seasons )
+### Tool<br>
+Martin Hoegl and Hans Georg Gemuenden’s (2001) Teamwork Quality (TWQ) framework provided a useful tool that is ideal for this study because is allows researchers to quantitatively measure teamwork quality using 38 measures across 6 facets. The tool has been validated and used extensively in the study of teamwork quality. It is easily translatable to the Survivor model because it uses a Likert scale and allows a range of recorders to input observations with minimal training.<br>
 
-<ins>Independent Variables:</ins>
+chop in visuals)
+
+**Measures**
+chop in visuals)
 
 Facets of Teamwork Quality
 - Communication
@@ -119,27 +124,45 @@ Facets of Teamwork Quality
 - Effort
 - Cohesion
 
-<ins>Dependent Variables:</ins> 
-
-Individuals placed in the final 4*
+Individuals advanced to the Final 4
 
 Individual season winners produced
 
-<ins>*Note:</ins> the number 4 was chosen to represent opportunity for success based on the Survivor format - the final 3 to 4 contestants in any season are the only ones allowed to compete for final victory in that season.
+<ins>Samples Population:</ins> 96 Survivor contestants
 
-Observations:
+<ins>Sample Size:</ins> 125 Samples 
+*5seasons*
+*33 episodes*
 
-An observation period shall refer to one team challenge event in one episode of Survivor.
 
-Raters will be considered "blind" to the final outcome of any observed period.
+<ins>Independent Variables:</ins>
 
-Raters will observe all teams participating in a team challenge during the selected observation period.
+<ins>Dependent Variables:</ins> 
 
-At the conclusion of the observation period, the rater will enter their observations for each team into the "Teamwork Quality Assessment Tool".
+
+## Protocol<br>
+
+*Note: Recorder assignments overlapped to ensure cross rater WORD WORD WROd on every episode observed in this study.
+
+**Data Collection**<br>
+
+Raters watched pre-recorded episodes of Survivor and evaluated team's performance and teamwork quality measures via a Qualtrics survey that contained the TWQ measures, in accordance with  Hoegl and Gemuenden's Teamwork Quality framework.<br>
+
+After each trial (episode), using a web-browser to access the Qualtrics survey, the raters scored each team's performance for that challenge via observed TWQ measures.<br>
+
+Raters repeated these steps for all remaining pre-merge episodes from their assigned seasons.
+
+**Data Preperation**<br>
+
+All data was aggregated in Qualtrics and then exported as a .csv file. Reverse coded questions were corrected and samples that failed to meet completion or verificaton standards were eliminated.
+
+The presence of the Sole Survivor on a team was hand coded the sample as a binary measure of 1 or 0, and the quantity of Final 4 qualifiers was hand coded into each sample as a raw number between 1 and 4 as appropriate.
+
+The resulting .csv file was loaded into *Jeffreys's Amazing Statistics Program* (JASP) to produce a series of graphs and comparison charts for analysis.
+
+
 
 The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) records the raters observations of the teams' performance in the dimensions of the six facets of teamwork quality as outlined by Hoegl & Gemuenden.
-
-The data recorded within the assessment tool will then be implemented in statistical software as well as plotted in R Studio to obtain a graphical depiction of any possible correlations between independent and dependent variables.
 
 
 
