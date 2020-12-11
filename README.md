@@ -14,22 +14,24 @@
 **Topic:**<br>
 This study uses Survivor as a series of case studies to evaluate measures of teamwork quality and evaluate opportunity or success. This study ultimately seeks to answer the economy of effort question all individual on a team face: Is it more advantageous to focus on personal ambition or the quality of the team?<br>
 
-**Definitions:**
+### Definitions:
 
-<ins>Post-collaboration / post-project:</ins> The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain.  <<<<< Do we need this one?
+*Post-collaboration / post-project:* The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain.  <<<<< Do we need this one?
 
-<ins>Teamwork Quality:</ins> A measure of collaboration as measured by the facets of communication, coordination, balance of member contributions, mutual support, effort, and cohesion. (Hoegl & Gemuenden, 2001)<br>
+*Teamwork Quality:* A measure of collaboration as measured by the facets of communication, coordination, balance of member contributions, mutual support, effort, and cohesion. (Hoegl & Gemuenden, 2001)<br>
 
-<ins>Team Success:</ins> the extent to which a team meets established objectives. (Hoegl & Gemuenden, 2001)<br>
+*Team Success:* the extent to which a team meets established objectives. (Hoegl & Gemuenden, 2001)<br>
 
-<ins>Opportunity for Success:</ins> the opportunity to compete in a post-collaboration competition. Placing in the Final 4.<br>
+*Opportunity for Success:* the opportunity to compete in a post-collaboration competition. Placing in the Final 4.<br>
 
-<ins>Individual Success:</ins> Winning the post-collaboration competition or post-project reward. The Sole Survivor.<br>
+*Individual Success:* Winning the post-collaboration competition or post-project reward. The Sole Survivor.<br>
 
-**Assumptions:**    <<<<<<<<<<<<<<<<<<<
+### Assumptions: <br>           <<<<<<<<<<<<<<<<<<<
+This study seeks to evaluate certain aspects of attitudes towards teamwork, but the observed population is unavailable for observation. In this capacity, recorders make assumption as though they themselves are a contestant answering the question which may allow rater bias to interfere.
 
-**Limitations:**   <<<<<<<<<<<<<<<<
 
+### Limitations:<br>
+Survivor is recorded for network television and only the edited post-production copies of footage were available for observation for this study. This means that the observational scope has alredy been filted in some capacity and made produce an unintentional bias in recorded responses
 
 
 # INTRODUCTION
@@ -142,7 +144,7 @@ Individual season winners produced
 
 ## Protocol<br>
 
-*Note: Recorder assignments overlapped to ensure cross rater WORD WORD WROd on every episode observed in this study.
+*Note: Recorder assignments overlapped on every episode observed to mitigate rater bias in this study.
 
 **Data Collection**<br>
 
