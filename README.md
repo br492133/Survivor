@@ -107,7 +107,7 @@ What is the name of this method Qual Quant something clever
 
 ### Model<br>
 
-Survivor Gameplay<br>
+
 ![image](images/blind_game.PNG)<br>
 
 The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. Contestants initially compete as part of Ad hoc teams. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. <br>
@@ -121,32 +121,32 @@ Martin Hoegl and Hans Georg Gemuenden’s (2001) Teamwork Quality (TWQ) framewor
 The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) can be viewed at the preceding link. This tool displays all measure in their corresponding categories.
 
 
-**Measures**
-chop in visuals)
+### Measures<br>
 
-Facets of Teamwork Quality
-- Communication
-- Coordination
-- Balance of Member Contributions
-- Mutual Support
-- Effort
-- Cohesion
+chop in visuals?)<br>
 
-Individuals advanced to the Final 4
+**Facets of Teamwork Quality**<br>
+> Communication<br>
+> Coordination<br>
+> Balance of Member Contributions<br>
+> Mutual Support<br>
+> Effort<br>
+> Cohesion<br>
 
-Individual season winners produced
+**Quantity advanced to the Final 4** <br>
 
-<ins>Samples Population:</ins> 96 Survivor contestants
+**Presence of Sole Survivor** <br>
 
-<ins>Sample Size:</ins> 125 Samples 
-*5seasons*
-*33 episodes*
+**Samples Population:** 96 Survivor contestants <br>
+
+**Sample Size:** 125 Samples  <br>
+*5 seasons* <br>
+*33 episodes* <br>
 
 
-<ins>Independent Variables:</ins>
+Independent Variables:
 
-<ins>Dependent Variables:</ins> 
-
+Dependent Variables:
 
 ## Protocol<br>
 
