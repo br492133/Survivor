@@ -1,8 +1,9 @@
 ### Research Practicum 2020 – Research Plan 
 
-## Project Title: <br>
-# Teamwork quality and individual opportunity for success<br>
-# Through the reality TV show survivor.
+
+# Teamwork Quality and 
+# Iindividual Opportunity for Success<br>
+# Through the Reality TV Show Survivor.
 
 
  * Team Name: The Survivors
