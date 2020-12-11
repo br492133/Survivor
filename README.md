@@ -78,20 +78,22 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 **Research Questions**<br>
 
->What facet(s) of team collaboration are the best indicators of producing opportunity for success?<br>
->What relationship exists between the season winners / top 4 and their seminal team’s overall TWQ in early gameplay? <br>
->What can people leading teams take away to most effectively implement in ‘real life’?<br>
+* What facet(s) of team collaboration are the best indicators of producing opportunity for success?<br>
+
+* What relationship exists between the season winners / top 4 and their seminal team’s overall TWQ in early gameplay? <br>
+
+* What can people leading teams take away to most effectively implement in ‘real life’?<br>
  
 
 ## Hypotheses<br>
 
->H1: Some facets of TWQ will be significant indicators of opportunity for success for teams <br>
-
->H2: Teams that win more will have greater overall TWQ scores<br>
-
->H3: (Pending H1 and H2): Winning teams will have higher TWQ factor scores when containing a season winner. <br>
-
->H4 (Pending H3): Teams that score higher in overall TWQ will place more contestants in the Final 4 (e.g., wider ranges for opportunities for success).<br>
+>* H1: Some facets of TWQ will be significant indicators of opportunity for success for teams <br>
+>
+>* H2: Teams that win more will have greater overall TWQ scores<br>
+>
+>* H3: (Pending H1 and H2): Winning teams will have higher TWQ factor scores when containing a season winner. <br>
+>
+>* H4 (Pending H3): Teams that score higher in overall TWQ will place more contestants in the Final 4 (e.g., wider ranges for opportunities for success).<br>
 
 
 
