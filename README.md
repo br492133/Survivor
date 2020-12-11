@@ -27,11 +27,11 @@ This study uses Survivor as a series of case studies to evaluate measures of tea
 *Individual Success:* Winning the post-collaboration competition or post-project reward. The Sole Survivor.<br>
 
 ### Assumptions: <br>           <<<<<<<<<<<<<<<<<<<
-This study seeks to evaluate certain aspects of attitudes towards teamwork, but the observed population is unavailable for observation. In this capacity, recorders make assumption as though they themselves are a contestant answering the question which may allow rater bias to interfere.
+This study seeks to evaluate certain aspects of attitudes towards teamwork, but the observed population is unavailable for observation. In this capacity, recorders make assumption as though they themselves are a contestant answering the question which may allow rater bias to interfere.<br>
 
 
 ### Limitations:<br>
-Survivor is recorded for network television and only the edited post-production copies of footage were available for observation for this study. This means that the observational scope has alredy been filted in some capacity and made produce an unintentional bias in recorded responses
+Survivor is recorded for network television and only the edited post-production copies of footage were available for observation for this study. This means that the observational scope has already been filtered in some capacity and made produce an unintentional bias in recorded responses<br>
 
 
 # INTRODUCTION
@@ -44,10 +44,10 @@ However, teams are still made of individuals and people live individual lives an
 In the current professional setting, teams are purpose built, meaning they are not created simply for the sake of being. This specific purpose may present itself in a way that inherently defines success differently for the team and the individual members of the team (Brown et al., 2016). Teams are also typically brought together in an Ad hoc fashion (Stone et al., 2010) and composed of multidisciplinary or transdisciplinary elements (Flowers et al., 2000). The transdisciplinary nature of these teams means that they already come at problems, and even teamwork, from different vantage points (Zeigler, 1990). This complicates attempts to maintain a singular focus on team objectives, particularly because interests and goals may not be aligned at the disciplinary level, let alone the individual level (Garrett-Jones et al., 2005). <br>
 
 The rift that often misaligns team and individual goals is further exacerbated by the existence of individual rewards that are extraneous, or at least tangential to, the overall team goal. These include individual rewards like personal recognition for contributions, a promotion going to the highest performing member of the team, or a follow-on research grant. Individuals competing for individual goals beyond the larger team goal can have an impact on overall team success.<br>
->>>>>> chesk this might ditch or expand
+
+>>>>>> check this might ditch or expand<br>
+
 The competitive construct within the Survivor model pits 20 contestants against one another in a winner-take-all contest for $1,000,000. Players begin on a randomly assigned Ad hoc team and compete against the other team in a series of ‘challenges’. The losing team sends one individual home. Gameplay continues in this fashion until the two teams ‘merge’ into one tribe and the individual phase of the competition begins. The game then continues as a series of individual contests where one person is eliminated until the Final 4 contestants compete for overall victory in the final episode. 
-
-
 
 
 ## Purpose Statement<br>
@@ -107,8 +107,13 @@ What is the name of this method Qual Quant something clever
 
 ### Model<br>
 
-The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. Contestants initially compete as part of Ad hoc teams. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. 
+The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. Contestants initially compete as part of Ad hoc teams. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. <br>
+
 During the team phase of competition, the winner-take-all nature of the overall contest is overtly known to all contestants, as is the fact that only the Final 4 get the opportunity to compete for the overall prize.<br>
+
+**Survivor Gameplay**
+![image](images/blind)game.PNG)
+
 
 ### Tool<br>
 Martin Hoegl and Hans Georg Gemuenden’s (2001) Teamwork Quality (TWQ) framework provided a useful tool that is ideal for this study because is allows researchers to quantitatively measure teamwork quality using 38 measures across 6 facets. The tool has been validated and used extensively in the study of teamwork quality. It is easily translatable to the Survivor model because it uses a Likert scale and allows a range of recorders to input observations with minimal training.<br>
