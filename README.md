@@ -97,9 +97,9 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 
 
-# Research Method/Approach**
+# RESEARCH METHOD
 
-The reality TV show Survivor provides an ideal scenario for testing the variables presented by the problem that is the focus of this study.
+Raters will observe pre-recorded The reality TV show Survivor provides an ideal scenario for testing the variables presented by the problem that is the focus of this study.
 
 Survivor consists of a team collaboration period and an individual post-collaboration period. Teams are Ad hoc and compete in a wide array of cognitive and physical team challenges, and only one individual ultimately wins the competition.
 
@@ -111,7 +111,7 @@ For the purposes of this study the following details apply:
 
 <ins>Independent Variables:</ins>
 
-Teamwork Quality
+Facets of Teamwork Quality
 - Communication
 - Coordination
 - Balance of Member Contributions
