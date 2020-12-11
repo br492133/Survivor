@@ -1,22 +1,15 @@
 ### Research Practicum 2020 – Research Plan 
 
 
-# Teamwork Quality and 
-# Iindividual Opportunity for Success<br>
-# Through the Reality TV Show Survivor.
+# Teamwork Quality and Individual Opportunity for Success Through the Reality TV Show Survivor.
 
 
- * Team Name: The Survivors
-> 
- * Team Member Names:
->Michael Allen
->Austin Kriznar 
->Jessica Williams
+## The Survivors
+>Michael Allen<br>
+>Austin Kriznar <br>
+>Jessica Williams<br>
 
-
-
-
-# General Introduction
+## General Introduction
 
 **Topic:**<br>
 This study uses Survivor as a series of case studies to evaluate measures of teamwork quality and evaluate opportunity or success. This study ultimately seeks to answer the economy of effort question all individual on a team face: Is it more advantageous to focus on personal ambition or the quality of the team?<br>
@@ -39,12 +32,12 @@ This study uses Survivor as a series of case studies to evaluate measures of tea
 
 
 
-## Introduction
+# INTRODUCTION
 Teamwork dominates the professional and academic landscape. It is difficult to find a job that does not involve some measure of teamwork or to pass an interview without demonstrating some evidence of having functioned as a member of a team. **CCC** Combining skilled individuals onto teams is a way to maximize creative talent, cross-level skills, and produce a much stronger product that one individual working alone. When teams are aligned towards a common goal, productivity can usually be assumed, and outcomes will approach optimization. <br>
 
 However, teams are still made of individuals and people live individual lives and enjoy individual recognition and rewards. Leaders struggle to find ways to motivate individual to commit to team goals and often resort to introducing individual rewards. Introducing individual rewards can create a conflict of interest and a aggravate the ever-present challenge of maintaining balance between individual and collective goals.<br>
 
-Background
+# BACKGROUND
 
 In the current professional setting, teams are purpose built, meaning they are not created simply for the sake of being. This specific purpose may present itself in a way that inherently defines success differently for the team and the individual members of the team (Brown et al., 2016). Teams are also typically brought together in an Ad hoc fashion (Stone et al., 2010) and composed of multidisciplinary or transdisciplinary elements (Flowers et al., 2000). The transdisciplinary nature of these teams means that they already come at problems, and even teamwork, from different vantage points (Zeigler, 1990). This complicates attempts to maintain a singular focus on team objectives, particularly because interests and goals may not be aligned at the disciplinary level, let alone the individual level (Garrett-Jones et al., 2005). <br>
 
@@ -55,18 +48,18 @@ The rift that often misaligns team and individual goals is further exacerbated b
 
 
 
-**Purpose Statement**
-The purpose of this study is to determine which individual attitude towards teamwork quality during the collaborative period of team projects is the best mechanism to maximize team member opportunity for success in related post-collaboration competition(s) and to determine which facets of teamwork quality have the greatest effect on that end.
+## Purpose Statement<br>
+The purpose of this study is to explore the relationship between attributes of whole-team teamwork quality and an individual’s likelihood to advance to the final stage of the winner-take-all reality TV show Survivor. <br>
 
-[comment]: <> (This project makes the following contributions:)
-[comment]: <> (you must have this!!)
-**Contributions**
+## Contributions
 
-- A model of how unique facets of teamwork quality effect team member opportunity for success in post-collaboration competition. This contribution provides the broader community with a framework to economize teamwork quality specific efforts during the collaborative period. 
+>Adapt a model to capture how unique facets of teamwork quality effect team member opportunity for success in post-collaboration competition. <br>
 
-- A quantitative assessment to answer the question of whether team members in collaborative environments should focus on teamwork quality or individual post-collaboration ambitions. This specific contribution will provide insight that will allow team leaders to manage team member expectations and restructure incentives to ensure both high teamwork quality  and a positive attitude towards teamwork through the collaborative period.
+>Quantitatively assess which aspects of teamwork (as measured by the Teamwork Quality assessment) are most impactful on individual team members' outcomes in collaborative environments.<br>
 
-####**Related Work**####
+>If possible, determine effect sensitivity of measures<br>
+
+####**Related Work**####    <<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 The framework for this study is built on the scaffold of several previous investigations into teamwork and team functionality. The primary work called upon in the formation of this stud is Hoegl & Gemuenden's 2001 article, ["Teamwork Quality and the Success of Innovative Projects: A Theoretical Concept and Empirical Evidence"](relevant_papers/Teamwork_Quality_and_the_Success_of_Innovative_Pro.pdf) published in the journal <em>Organization Science</em>. This article both establishes a definition for Teamwork Quality, that is used throughout this study, and provides a framework and tool for quantitatively assessing the measure of Teamwork Quality. The study includes methods for weighting the different facets and conducting final aggregation of the collected data.
@@ -77,26 +70,29 @@ The broader correlation and assumption of contribution for this study is based o
 
 
 
-**Problem Statement**
-Many Ad hoc team projects contain elements of competitive individual post-collaboration rewards. Individual team members view other team members as eventual competitors for those rewards during execution of the team project. Individually motivated behaviors can be damaging to teamwork quality and result in diminished team performance. This study will observe the participants of the reality TV show Survivor to investigate the relationship between teamwork quality and individual opportunity for success in post-collaboration competition.
+## Problem Statement<br>
+Many team projects contain elements of competitive individual post-project rewards. When presented with the presence of extraneous rewards, individuals may neglect aspects of teamwork and collaboration in pursuit of individual goals. Individuals interested in maximizing opportunity for success in post-project competitions may be unsure of whether to focus personal energies on maximizing teamwork quality or abandoning collaborative behaviors in pursuit individual goals. <br>
 
-**Proposed Solution**
+**Proposed Solution**<br>
+This study will observe several seasons of the reality TV show Survivor and use the 2001 Teamwork Quality Framework to evaluate measures of teamwork quality against opportunity for success in post-collaboration competition to determine which individual approach is most advantageous.
 
+**Research Questions**<br>
 
-**Research Questions**
+>What facet(s) of team collaboration are the best indicators of producing opportunity for success?<br>
+>What relationship exists between the season winners / top 4 and their seminal team’s overall TWQ in early gameplay? <br>
+>What can people leading teams take away to most effectively implement in ‘real life’?<br>
+ 
 
-What facets of teamwork quality are the best indicators of a team that will produce opportunity for individual success in post-collaboration competition?
+## Hypotheses<br>
 
-Is there a correlation between teamwork quality during a cohort collaborative phase and individual opportunity for success dutin post-collaboration competition?
+>H1: Some facets of TWQ will be significant indicators of opportunity for success for teams <br>
 
-To what degree does total teamwork qualtiy during a collaborative phase effect individual success in post-collaboration competition? 
+>H2: Teams that win more will have greater overall TWQ scores<br>
 
-**Hypothesis**
-H1: Teams that score higher in overall teamwork quality will produce greater opportunity for individual success in post-colaboration competions.
+>H3: (Pending H1 and H2): Winning teams will have higher TWQ factor scores when containing a season winner. <br>
 
-H2: Teams with higher teamwork quality scores will produce individuals that acheive individual success more frequently than deams that score lower in teamwork quality.
+>H4 (Pending H3): Teams that score higher in overall TWQ will place more contestants in the Final 4 (e.g., wider ranges for opportunities for success).<br>
 
-H3: Some facets of teamwork quality will be more significant indicators of opportunity for success than others.
 
 
 **Research Method/Approach**
