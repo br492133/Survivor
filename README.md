@@ -53,11 +53,11 @@ The purpose of this study is to explore the relationship between attributes of w
 
 ## Contributions
 
->Adapt a model to capture how unique facets of teamwork quality effect team member opportunity for success in post-collaboration competition. <br>
-
->Quantitatively assess which aspects of teamwork (as measured by the Teamwork Quality assessment) are most impactful on individual team members' outcomes in collaborative environments.<br>
-
->If possible, determine effect sensitivity of measures<br>
+>* Adapt a model to capture how unique facets of teamwork quality effect team member opportunity for success in post-collaboration competition. <br>
+>
+>* Quantitatively assess which aspects of teamwork (as measured by the Teamwork Quality assessment) are most impactful on individual team members' outcomes in collaborative environments.<br>
+>
+>* If possible, determine effect sensitivity of measures<br>
 
 ####**Related Work**####    <<<<<<<<<<<<<<<<<<<<<<<<<
 
