@@ -42,7 +42,7 @@ Survivor is a reality TV Show with over 20 years of air time. The competitive co
 
 In the current professional setting, teams are purpose built, meaning they are not created simply for the sake of being. This specific purpose may present itself in a way that inherently defines success differently for the team and the individual members of the team (Brown et al., 2016). Teams are also typically brought together in an Ad hoc fashion (Stone et al., 2010) and composed of multidisciplinary or transdisciplinary elements (Flowers et al., 2000). The transdisciplinary nature of these teams means that they already come at problems, and even teamwork, from different vantage points (Zeigler, 1990). This complicates attempts to maintain a singular focus on team objectives, particularly because interests and goals may not be aligned at the disciplinary level, let alone the individual level (Garrett-Jones et al., 2005). <br>
 
-Teams are still made of individuals and people live individual lives and enjoy individual recognition and rewards. Leaders struggle to find ways to motivate individual to commit to team goals and often resort to introducing individual rewards. Introducing individual rewards can create a conflict of interest and a aggravate the ever-present challenge of maintaining balance between individual and collective goals. The rift that often misaligns team and individual goals is further exacerbated by the existence of individual rewards that are extraneous, or at least tangential to, the overall team goal. These include individual rewards like personal recognition for contributions, a promotion going to the highest performing member of the team, or a follow-on research grant. Individuals competing for individual goals beyond the larger team goal can have an impact on overall team success.<br>
+Teams are still made of individuals and people live individual lives and enjoy individual recognition and rewards. Leaders struggle to find ways to motivate individual to commit to team goals and often resort to introducing individual rewards. Introducing individual rewards can create a conflict of interest and a aggravate the ever-present challenge of maintaining balance between individual and collective goals (Goodwin et. al, 2018). The rift that often misaligns team and individual goals is further exacerbated by the existence of individual rewards that are extraneous, or at least tangential to, the overall team goal. These include individual rewards like personal recognition for contributions, a promotion going to the highest performing member of the team, or a follow-on research grant. Individuals competing for individual goals beyond the larger team goal can have an impact on overall team success.<br>
 
 
 
@@ -63,7 +63,7 @@ Pearsall, Christian, & Ellis (2010) discussed the effects of individual rewards 
 
 However, this generates proself motivation, essentially when members attempt to maximize their own outcomes without regard for the outcomes of the team as a whole. This type of behavior is seen frequently in Survivor, and termed "strategizing" by the community. Johnson et al. (2006), identified that individual reward structures lead to reduced levels of information sharing in teams.
 
-The prepnderance of the literature suggests that, intention or otherwise, the existens of individual rewards exteraneous to team goals is likely to cause a decrement in overall team effectiveness and teamwork quality.
+The prepnderance of the literature suggests that, intention or otherwise, the existense of individual rewards exteraneous to team goals is likely to cause a decrement in overall team effectiveness and teamwork quality.
 
 The framework for this study is built on the scaffold of Hoegl & Gemuenden's 2001 experiment, "Teamwork Quality and the Success of Innovative Projects: A Theoretical Concept and Empirical Evidence" published in the journal *Organization Science*. This article both establishes a definition for Teamwork Quality, that is used throughout this study, and provides a framework and tool for quantitatively assessing the measure of Teamwork Quality. The study includes methods for weighting the different facets and conducting final aggregation of the collected data.
 
@@ -164,7 +164,7 @@ The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1
 
 
 # RESULTS
-The raw and cleaned datasets for this study can be found [here](datasets)
+The raw and cleaned datasets for this study can be found [here](dataset)
 
 All plots and outputs can be found [here](images)
 
