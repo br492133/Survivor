@@ -153,23 +153,23 @@ Additionally, no observed seasons had a 2-2 splin in Final 4, so the plots of th
 
 ANOVA plots were used for initial significance comparison.<br>
 ![image](images/ANOVA_2.PNG)<br>
-This plot demonstrates that there is a significant correlation between the presence of the Sole Survivor and a high overall TWQ score, suggesting that there is a relationship between teams demonstrating a high degree of TWQ and individuals form those teams advancing to win the season.<br>
+First, we conducted ANOVAs on Overall Average by WinGroup and by Number of Final Four on Team. We see a stronger effect when grouping by Sole Survivor presence vs absence than when grouping by number of potential winners produced by the team – but both had a significant effect on Overall TWQ Average scores. This suggests that there is a relationship between teams demonstrating a high degree of TWQ and individuals form those teams advancing to win the season.<br>
 
 **Cohesion Sole Survivor Comparison**<br>
 ![image](images/cohesionQuad.PNG)<br>
-The shape of the distribution changes with presence of the Sole Survivor from a uni-modal, left-leaning skew to a bimodal, right-leaning.<br>
+This a density distribution and violin graph of our descriptive statistics on Cohesion average score by WinGroup. The distribution on the left, Sole Survivor Absent, shows a left-leaning skew and the violin graph shows, based on the width of the shape, that there is greater concentration of scores around the 5 or 6 mark, and that the scores show less variance. The distribution on the right shifts left, showing much greater density in the number of higher values scored, and the violin graph before also illustrates that shift in density upwards on the scale based on its widest parts hovering around 6/7.<br>
 
 **Cohesion Final 4 Placement Comparison**<br>
 ![image](images/Cohesion4444Quad.PNG)<br>
-The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
+Most notably, when there were no potential winners produced, the team typically scored very low on Cohesion, with scores hovering around 4/5, and also showing a clear left skew, unimodal distribution. But for every other team, the distribution shifts more left and with increasing proportions of higher-value scores given. The violin graphs also clearly show how dense the distribution is on lower-value scores with no Final Four survivors produced – and show that as the number of Final Four survivors increased the denser parts of the distribution shift up – which is indicative of teams that don’t seem to get along/mesh well together tend to not produce individually successful participants.<br>
 
 **Mutual Support Sole Survivor Comparison**<br>
 ![image](images/mutualQuad.PNG)<br>
-The shape of the distribution changes with presence of the Sole Survivor and assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
+The distribution of scores with the Sole Survivor present hovers at the ceiling of the measure, and you can also see the distribution shifts distinctly to the right, where the density of scores of 7 are vastly greater than any other scorend assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
 
 **Mutual Support Final 4 Placement Comparison**<br>
 ![image](images/mutual4444Quad.PNG)<br>
-The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
+Mutual Support shows the greatest difference between high performing teams (those that produce more potential winners) and low performing teams, the distributions of the scores show a clear shift to the right, with higher proportions of high-value scores given. The violin graphs also depict this fairly clearly, where the higher performing teams take on somewhat of a “lightbulb” shape where the density is most wide at the ceiling of the scale. This likely means that teams where members do not help each other, cover strengths/weaknesses, do not interact constructively, and do not find agreement/make decisions together, are less likely to produce Final Four survivors.<br>
 
 # FINDINGS<br>
 
