@@ -16,7 +16,7 @@ This study uses Survivor as a series of case studies to evaluate measures of tea
 
 ### Definitions:
 
-*Post-collaboration / post-project:* The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain.  <<<<< Do we need this one?
+*Post-collaboration / post-project:* The period after the team in study has been dissolved, either due to project completion or any other reason, and former team members compete against one another for individual gain. 
 
 *Teamwork Quality:* A measure of collaboration as measured by the facets of communication, coordination, balance of member contributions, mutual support, effort, and cohesion. (Hoegl & Gemuenden, 2001)<br>
 
@@ -95,8 +95,6 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 # RESEARCH METHOD
 
-What is the name of this method Qual Quant something clever    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<???
-
 ## Aparatus<br>
 
 ### Model<br>
@@ -122,10 +120,6 @@ The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtr
 **Sample Size:** 125 Samples  <br>
 *5 seasons* <br>
 *33 episodes* <br>
-
-Independent Variables:   <<<<<<<<<<<<<<<<<<<<<<???
-
-Dependent Variables: <<<<<<<<<<<<<<<<???
 
 ## Protocol<br>
 
