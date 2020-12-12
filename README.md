@@ -196,7 +196,7 @@ Plots also demonstrate a tapering and bimodal-shaped outcomes effect with more F
 
 <br>
 
-# Future Work<br>
+## Future Work<br>
 
 This study would be helped significantly through additional samples and more recorders to establish greater confidence. As a way to reduce the time requirements for recorders, there is potential to review other tools as a Hoegl & Gemuenden's TWQ replacement. This would be difficult though as the TWQ criteria used was selected as an exceptionally fitting tool. <br>
 
