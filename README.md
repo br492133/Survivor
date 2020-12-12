@@ -161,11 +161,11 @@ This a density distribution and violin graph of our descriptive statistics on Co
 
 **Cohesion Final 4 Placement Comparison**<br>
 ![image](images/Cohesion4444Quad.PNG)<br>
-Most notably, when there were no potential winners produced, the team typically scored very low on Cohesion, with scores hovering around 4/5, and also showing a clear left skew, unimodal distribution. But for every other team, the distribution shifts more left and with increasing proportions of higher-value scores given. The violin graphs also clearly show how dense the distribution is on lower-value scores with no Final Four survivors produced – and show that as the number of Final Four survivors increased the denser parts of the distribution shift up – which is indicative of teams that don’t seem to get along/mesh well together tend to not produce individually successful participants.<br>
+These graphs depict the distributions of Cohesion according to number of Final Four on team. When there were no potential winners produced, the team typically scored very low on Cohesion, with scores hovering around 4/5, and also showing a clear left skew, unimodal distribution. But for every other team, the distribution shifts more left and with increasing proportions of higher-value scores given. The violin graphs also clearly show how dense the distribution is on lower-value scores with no Final Four survivors produced – and show that as the number of Final Four survivors increased the denser parts of the distribution shift up – which is indicative of teams that don’t seem to get along/mesh well together tend to not produce individually successful participants.<br>
 
 **Mutual Support Sole Survivor Comparison**<br>
 ![image](images/mutualQuad.PNG)<br>
-The distribution of scores with the Sole Survivor present hovers at the ceiling of the measure, and you can also see the distribution shifts distinctly to the right, where the density of scores of 7 are vastly greater than any other scorend assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
+The distribution of Mutual Support scores with the Sole Survivor present hovers at the ceiling of the measure, and you can also see the distribution shifts distinctly to the right, where the density of scores of 7 are vastly greater than any other scorend assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
 
 **Mutual Support Final 4 Placement Comparison**<br>
 ![image](images/mutual4444Quad.PNG)<br>
