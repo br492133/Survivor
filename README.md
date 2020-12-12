@@ -164,9 +164,9 @@ The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1
 
 
 # RESULTS
-The raw and cleaned datasets for this study can be found [here](datasets/)
+The raw and cleaned datasets for this study can be found [here](datasets)
 
-All plots and outputs can be found [here](images/)
+All plots and outputs can be found [here](images)
 
 ![image](images/hog_facets.PNG)<br>
 ![image](images/hog_facets.PNG)<br>
