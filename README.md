@@ -26,9 +26,8 @@ This study uses Survivor as a series of case studies to evaluate measures of tea
 
 *Individual Success:* Winning the post-collaboration competition or post-project reward. The Sole Survivor.<br>
 
-### Assumptions: <br>           <<<<<<<<<<<<<<<<<<<
+### Assumptions: <br>         
 This study seeks to evaluate certain aspects of attitudes towards teamwork, but the observed population is unavailable for observation. In this capacity, recorders make assumption as though they themselves are a contestant answering the question which may allow rater bias to interfere.<br>
-
 
 ### Limitations:<br>
 Survivor is recorded for network television and only the edited post-production copies of footage were available for observation for this study. This means that the observational scope has already been filtered in some capacity and made produce an unintentional bias in recorded responses<br>
@@ -36,7 +35,7 @@ Survivor is recorded for network television and only the edited post-production 
 
 # INTRODUCTION
 
-Survivor is a reality TV Show with over 20 years of air time. The competitive construct within the Survivor model pits 20 contestants against one another in a winner-take-all contest for $1,000,000. Players begin on a randomly assigned Ad hoc team and compete against the other team in a series of ‘challenges’. The losing team sends one individual home. Gameplay continues in this fashion until the two teams ‘merge’ into one tribe and the individual phase of the competition begins. The game then continues as a series of individual contests where one person is eliminated until the Final 4 contestants compete for overall victory in the final episode. 
+Survivor is a reality TV Show with over 20 years of air time. The competitive construct within the Survivor model pits 20 contestants against one another in a winner-take-all contest for $1,000,000. Players begin on a randomly assigned Ad hoc team and compete against the other team in a series of ‘challenges’. The losing team sends one individual home. Gameplay continues in this fashion until the two teams ‘merge’ into one tribe and the individual phase of the competition begins. The game then continues as a series of individual contests where one person is eliminated until the Final 4 contestants compete for overall victory in the final episode. <br>
 
 # BACKGROUND
 
@@ -57,7 +56,7 @@ The purpose of this study is to explore the relationship between attributes of w
 >
 >* If possible, determine effect sensitivity of measures<br>
 
-## Related Work   <<<<<<<<<<<<<<<<<<<<<<<<<  ???
+## Related Work
 
 Pearsall, Christian, & Ellis (2010) discussed the effects of individual rewards on individual behavior in team settings. They identified that when individual rewards are employed, there is a stronger connection between behavior and outcomes; however, team members are not encouraged to focus attention on helping their teammates. This could translate to low Cohesion, Mutual Support, and Effort in teams without high-performing Survivor contestants. By rewarding individual effort, it increases team members' focus on their individual tasks rather than overall teamwork – with the hope that the cumulative individual efforts will result in adequate team performance overall. <br>
 
@@ -65,15 +64,13 @@ However, this generates proself motivation, essentially when members attempt to 
 
 The prepnderance of the literature suggests that, intention or otherwise, the existense of individual rewards exteraneous to team goals is likely to cause a decrement in overall team effectiveness and teamwork quality.
 
-The framework for this study is built on the scaffold of Hoegl & Gemuenden's 2001 experiment, "Teamwork Quality and the Success of Innovative Projects: A Theoretical Concept and Empirical Evidence" published in the journal *Organization Science*. This article both establishes a definition for Teamwork Quality, that is used throughout this study, and provides a framework and tool for quantitatively assessing the measure of Teamwork Quality. The study includes methods for weighting the different facets and conducting final aggregation of the collected data.
-
-
+The framework for this study is built on the scaffold of Hoegl & Gemuenden's 2001 experiment, "Teamwork Quality and the Success of Innovative Projects: A Theoretical Concept and Empirical Evidence" published in the journal *Organization Science*. This article both establishes a definition for Teamwork Quality, that is used throughout this study, and provides a framework and tool for quantitatively assessing the measure of Teamwork Quality. The study includes methods for weighting the different facets and conducting final aggregation of the collected data.<br>
 
 ## Problem Statement<br>
 Many team projects contain elements of competitive individual post-project rewards. When presented with the presence of extraneous rewards, individuals may neglect aspects of teamwork and collaboration in pursuit of individual goals. Individuals interested in maximizing opportunity for success in post-project competitions may be unsure of whether to focus personal energies on maximizing teamwork quality or abandoning collaborative behaviors in pursuit individual goals. <br>
 
 **Proposed Solution**<br>
-This study will observe several seasons of the reality TV show Survivor and use the 2001 Teamwork Quality Framework to evaluate measures of teamwork quality against opportunity for success in post-collaboration competition to determine which individual approach is most advantageous.
+This study will observe several seasons of the reality TV show Survivor and use the 2001 Teamwork Quality Framework to evaluate measures of teamwork quality against opportunity for success in post-collaboration competition to determine which individual approach is most advantageous.<br>
 
 **Research Questions**<br>
 
@@ -108,18 +105,13 @@ What is the name of this method Qual Quant something clever    <<<<<<<<<<<<<<<<<
 
 The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. During the team phase of competition, the winner-take-all nature of the overall contest is overtly known to all contestants, as is the fact that only the Final 4 get the opportunity to compete for the overall prize.<br>
 
-### Tool<br>
+### Tools and Measures<br>
 Martin Hoegl and Hans Georg Gemuenden’s (2001) Teamwork Quality (TWQ) framework provided a useful tool that is ideal for this study because is allows researchers to quantitatively measure teamwork quality using 38 measures across 6 facets. The tool has been validated and used extensively in the study of teamwork quality. It is easily translatable to the Survivor model because it uses a Likert scale and allows a range of recorders to input observations with minimal training.<br>
-
-The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) can be viewed at the preceding link. This tool displays all measure in their corresponding categories.<br>
-
-
-### Measures<br>
-
-chop in visuals?)<br>
 
 **Facets of Teamwork Quality**<br>
 ![image](images/hog_facets.PNG)<br>
+
+The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) can be viewed at the preceding link. This tool displays all measure in their corresponding categories.<br>
 
 **Quantity advanced to the Final 4** <br>
 
@@ -130,7 +122,6 @@ chop in visuals?)<br>
 **Sample Size:** 125 Samples  <br>
 *5 seasons* <br>
 *33 episodes* <br>
-
 
 Independent Variables:   <<<<<<<<<<<<<<<<<<<<<<???
 
