@@ -197,17 +197,18 @@ This should not be conflated to a ‘great man’ effect and that all credit for
 This relationship does suggest that better teams win more, and are likely to produce winners perhaps, because the tighter team ‘unit’ is more likely to stick together in individual rounds.<br>
 
 **Mutual support showed the clearest clustering at the score ceiling**<br>
-Mutual support presented a very strong skewing toward upside swing, an effec that was less pronounced with cohesion or other factors in this instance. Thsi suggests that a wining individual stategy in Survivor and in the professional world, involves integrating and supporting the tream rather than dominating.<br>
+Mutual support presented a very strong skewing toward upside swing, an effect that was less pronounced with cohesion or other factors in this instance. This suggests that a wining individual strategy in Survivor and in the professional world, involves integrating and supporting the team rather than dominating.<br>
 
 
 ## Key Finding 2<br>
 When accounting for the **Final Four**,  the most significant TWQ factors were **Effort, Cohesion, Communication, and Mutual Support**
 
-Thsi strongly suggests that individuals prioritizing team-focused strategies, such as constructive motivation for teammates, are associated with a greater opportunity for success.
+This strongly suggests that individuals prioritizing team-focused strategies, such as constructive motivation for teammates, are associated with a greater opportunity for success.
 
-A noticable ‘tightening’ of outcomes occurring when no one on the team places in the Final 4. The TWQ performance cieling is distinctly lower in the lower-placing teams, suggesting that for individuals, the opportunity for success later in game play decreases and narrow the opportunity to even make it to the Final 4.<br>
+A noticeable ‘tightening’ of outcomes occurring when no one on the team places in the Final 4. The TWQ performance ceiling is distinctly lower in the lower-placing teams, suggesting that for individuals, the opportunity for success later in game play decreases and narrow the opportunity to even make it to the Final 4.<br>
 
-Plots also demonstrate a tapering and bimodal-shaped outcomes effect with more Final Four contestants on a team. Although there seems to be a slightly higher range of scores, the cieling is distinctly higher.Tthis translates to all TWQ facets and suggests a sympathetic relationship between TWQ facets in the higher echelons. Additionally, the lowest score clusters in most facets for teams that produce high opportunity for success is nearly even wiht the cieling clusters of lower performing teams. This suggests that there is no increase in risk of opportunity loss to an individual agent prioritizing TWQ behaviors. <br>
+Plots also demonstrate a tapering and bimodal-shaped outcomes effect with more Final Four contestants on a team. Although there seems to be a slightly higher range of scores, the ceiling is distinctly higher. This translates to all TWQ facets and suggests a sympathetic relationship between TWQ facets in the higher echelons. Additionally, the lowest score clusters in most facets for teams that produce high opportunity for success is nearly even with the ceiling clusters of lower performing teams. This suggests that there is no increase in risk of opportunity loss to an individual agent prioritizing TWQ behaviors. <br>
+
 <br>
 
 # REFERENCES <br>
