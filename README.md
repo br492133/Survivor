@@ -57,7 +57,7 @@ The purpose of this study is to explore the relationship between attributes of w
 >
 >* If possible, determine effect sensitivity of measures<br>
 
-## Related Work   <<<<<<<<<<<<<<<<<<<<<<<<<
+## Related Work   <<<<<<<<<<<<<<<<<<<<<<<<<  ???
 
 Pearsall, Christian, & Ellis (2010) discussed the effects of individual rewards on individual behavior in team settings. They identified that when individual rewards are employed, there is a stronger connection between behavior and outcomes; however, team members are not encouraged to focus attention on helping their teammates. This could translate to low Cohesion, Mutual Support, and Effort in teams without high-performing Survivor contestants. By rewarding individual effort, it increases team members' focus on their individual tasks rather than overall teamwork – with the hope that the cumulative individual efforts will result in adequate team performance overall. <br>
 
@@ -98,7 +98,7 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 # RESEARCH METHOD
 
-What is the name of this method Qual Quant something clever    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+What is the name of this method Qual Quant something clever    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<???
 
 ## Aparatus<br>
 
@@ -132,9 +132,9 @@ chop in visuals?)<br>
 *33 episodes* <br>
 
 
-Independent Variables:   <<<<<<<<<<<<<<<<<<<<<<
+Independent Variables:   <<<<<<<<<<<<<<<<<<<<<<???
 
-Dependent Variables: <<<<<<<<<<<<<<<<
+Dependent Variables: <<<<<<<<<<<<<<<<???
 
 ## Protocol<br>
 
@@ -164,9 +164,9 @@ The raw and cleaned datasets for this study can be found [here](dataset)<br>
 All plots and outputs can be found [here](images)<br>
 
 *Note: X and Y axes are **not** common between plots.<br>
-Additonally, no observed seasons had a 2-2 splin in Final 4, so the plots of that condition are intentionally omitted.<br>
+Additionally, no observed seasons had a 2-2 splin in Final 4, so the plots of that condition are intentionally omitted.<br>
 
-ANOVA plots were used for initial significance comparision.<br>
+ANOVA plots were used for initial significance comparison.<br>
 ![image](images/ANOVA_2.PNG)<br>
 This plot demonstrates that there is a significant correlation between the presence of the Sole Survivor and a high overall TWQ score, suggesting that there is a relationship between teams demonstrating a high degree of TWQ and individuals form those teams advancing to win the season.<br>
 
@@ -186,14 +186,31 @@ The shape of the distribution changes with presence of the Sole Survivor and ass
 ![image](images/mutual4444Quad.PNG)<br>
 The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
 
-# FINDINGS
+# FINDINGS<br>
+
+## Key Finding 1<br>
+When accounting for **Sole Survivor** presence, the most significant TWQ factors were **Mutual Support and Cohesion**<br>
+
+**All TWQ factors were greater when eventual winner was on team.** <br>
+This should not be conflated to a ‘great man’ effect and that all credit for improvement is due to eventual winners presence on the team. Qualitatively, cohesion and mutual support are fundamentally team-first parts of the TWQ. If a ‘great man’ was closely associated with ‘better’ teams, the coordination effect with or without winner would be intuitively expected to present as the most important factor.<br>
+
+This relationship does suggest that better teams win more, and are likely to produce winners perhaps, because the tighter team ‘unit’ is more likely to stick together in individual rounds.<br>
+
+**Mutual support showed the clearest clustering at the score ceiling**<br>
+Mutual support presented a very strong skewing toward upside swing, an effec that was less pronounced with cohesion or other factors in this instance. Thsi suggests that a wining individual stategy in Survivor and in the professional world, involves integrating and supporting the tream rather than dominating.<br>
 
 
+## Key Finding 2<br>
+When accounting for the **Final Four**,  the most significant TWQ factors were **Effort, Cohesion, Communication, and Mutual Support**
 
+Thsi strongly suggests that individuals prioritizing team-focused strategies, such as constructive motivation for teammates, are associated with a greater opportunity for success.
 
+A noticable ‘tightening’ of outcomes occurring when no one on the team places in the Final 4. The TWQ performance cieling is distinctly lower in the lower-placing teams, suggesting that for individuals, the opportunity for success later in game play decreases and narrow the opportunity to even make it to the Final 4.<br>
 
+Plots also demonstrate a tapering and bimodal-shaped outcomes effect with more Final Four contestants on a team. Although there seems to be a slightly higher range of scores, the cieling is distinctly higher.Tthis translates to all TWQ facets and suggests a sympathetic relationship between TWQ facets in the higher echelons. Additionally, the lowest score clusters in most facets for teams that produce high opportunity for success is nearly even wiht the cieling clusters of lower performing teams. This suggests that there is no increase in risk of opportunity loss to an individual agent prioritizing TWQ behaviors. <br>
+<br>
 
-# REFERENCES 
+# REFERENCES <br>
  
 Boles, T., Croson, R., & Murnighan, J. K. (2000). Deception and retribution in repeated ultimatum bargaining. Organizational Behavior and Human Decision Processes, 83, 235-259. <br>
 
