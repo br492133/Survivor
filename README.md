@@ -163,16 +163,33 @@ The resulting .csv file was loaded into *Jeffreys's Amazing Statistics Program* 
 The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) records the raters observations of the teams' performance in the dimensions of the six facets of teamwork quality as outlined by Hoegl & Gemuenden.
 
 
-# RESULTS
-The raw and cleaned datasets for this study can be found [here](dataset)
+# RESULTS AND DISCUSSION<br>
+The raw and cleaned datasets for this study can be found [here](dataset)<br>
 
-All plots and outputs can be found [here](images)
+All plots and outputs can be found [here](images)<br>
 
-![image](images/hog_facets.PNG)<br>
-![image](images/hog_facets.PNG)<br>
-![image](images/hog_facets.PNG)<br>
-![image](images/hog_facets.PNG)<br>
-![image](images/hog_facets.PNG)<br>
+*Note: X and Y axes are **not** common between plots.<br>
+Additonally, no observed seasons had a 2-2 splin in Final 4, so the plots of that condition are intentionally omitted.<br>
+
+ANOVA plots were used for initial significance comparision.<br>
+![image](images/ANOVA_2.PNG)<br>
+This plot demonstrates that there is a significant correlation between the presence of the Sole Survivor and a high overall TWQ score, suggesting that there is a relationship between teams demonstrating a high degree of TWQ and individuals form those teams advancing to win the season.<br>
+
+Cohesion Sole Survivor Comparison<br>
+![image](images/cohesionQuad.PNG)<br>
+The shape of the distribution changes with presence of the Sole Survivor from a uni-modal, left-leaning skew to a bimodal, right-leaning.<br>
+
+Cohesion Final 4 Placement Comparison<br>
+![image](images/Cohesion4444Quad.PNG)<br>
+The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
+
+Mutual Support Sole Survivor Comparison<br>
+![image](images/mutualQuad.PNG)<br>
+The shape of the distribution changes with presence of the Sole Survivor and assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
+
+Mutual Support Final 4 Placement Comparison<br>
+![image](images/mutual4444Quad.PNG)<br>
+The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
 
 # FINDINGS
 
