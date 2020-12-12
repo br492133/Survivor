@@ -57,7 +57,7 @@ The purpose of this study is to explore the relationship between attributes of w
 >
 >* If possible, determine effect sensitivity of measures<br>
 
-## **Related Work**####    <<<<<<<<<<<<<<<<<<<<<<<<<
+## Related Work   <<<<<<<<<<<<<<<<<<<<<<<<<
 
 Pearsall, Christian, & Ellis (2010) discussed the effects of individual rewards on individual behavior in team settings. They identified that when individual rewards are employed, there is a stronger connection between behavior and outcomes; however, team members are not encouraged to focus attention on helping their teammates. This could translate to low Cohesion, Mutual Support, and Effort in teams without high-performing Survivor contestants. By rewarding individual effort, it increases team members' focus on their individual tasks rather than overall teamwork – with the hope that the cumulative individual efforts will result in adequate team performance overall. <br>
 
@@ -98,22 +98,20 @@ This study will observe several seasons of the reality TV show Survivor and use 
 
 # RESEARCH METHOD
 
-What is the name of this method Qual Quant something clever
+What is the name of this method Qual Quant something clever    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 ## Aparatus<br>
 
 ### Model<br>
 
-
 ![image](images/blind_game.PNG)<br>
 
 The survivor model offers several factors that make it an excellent sample set for observation of teamwork quality measures in the context outlined by the research questions posed by this study. The show includes 20 years’ worth of recorded seasons which include contestants from a wide variety of social backgrounds and regions around the United States. The team challenges that contestants compete in require a wide array of teamwork behaviors and offer ample observation of teamwork quality measures. During the team phase of competition, the winner-take-all nature of the overall contest is overtly known to all contestants, as is the fact that only the Final 4 get the opportunity to compete for the overall prize.<br>
 
-
 ### Tool<br>
 Martin Hoegl and Hans Georg Gemuenden’s (2001) Teamwork Quality (TWQ) framework provided a useful tool that is ideal for this study because is allows researchers to quantitatively measure teamwork quality using 38 measures across 6 facets. The tool has been validated and used extensively in the study of teamwork quality. It is easily translatable to the Survivor model because it uses a Likert scale and allows a range of recorders to input observations with minimal training.<br>
 
-The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) can be viewed at the preceding link. This tool displays all measure in their corresponding categories.
+The recorder version of the [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) can be viewed at the preceding link. This tool displays all measure in their corresponding categories.<br>
 
 
 ### Measures<br>
@@ -148,20 +146,17 @@ Raters watched pre-recorded episodes of Survivor and evaluated team's performanc
 
 After each trial (episode), using a web-browser to access the Qualtrics survey, the raters scored each team's performance for that challenge via observed TWQ measures.<br>
 
-Raters repeated these steps for all remaining pre-merge episodes from their assigned seasons.
+Raters repeated these steps for all remaining pre-merge episodes from their assigned seasons.<br>
 
 **Data Preperation**<br>
 
-All data was aggregated in Qualtrics and then exported as a .csv file. Reverse coded questions were corrected and samples that failed to meet completion or verificaton standards were eliminated.
+All data was aggregated in Qualtrics and then exported as a .csv file. Reverse coded questions were corrected and samples that failed to meet completion or verificaton standards were eliminated.<br>
 
-The presence of the Sole Survivor on a team was hand coded the sample as a binary measure of 1 or 0, and the quantity of Final 4 qualifiers was hand coded into each sample as a raw number between 1 and 4 as appropriate.
+The presence of the Sole Survivor on a team was hand coded the sample as a binary measure of 1 or 0, and the quantity of Final 4 qualifiers was hand coded into each sample as a raw number between 1 and 4 as appropriate.<br>
 
-The resulting .csv file was loaded into *Jeffreys's Amazing Statistics Program* (JASP) to produce a series of graphs and comparison charts for analysis.
+The resulting .csv file was loaded into *Jeffreys's Amazing Statistics Program* (JASP) to produce a series of graphs and comparison charts for analysis.<br>
 
-
-
-The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) records the raters observations of the teams' performance in the dimensions of the six facets of teamwork quality as outlined by Hoegl & Gemuenden.
-
+The [Teamwork Quality Assessment Tool](http://ucf.qualtrics.com/jfe/form/SV_2gg1V4BExgotmMB) records the raters observations of the teams' performance in the dimensions of the six facets of teamwork quality as outlined by Hoegl & Gemuenden.<br>
 
 # RESULTS AND DISCUSSION<br>
 The raw and cleaned datasets for this study can be found [here](dataset)<br>
@@ -175,19 +170,19 @@ ANOVA plots were used for initial significance comparision.<br>
 ![image](images/ANOVA_2.PNG)<br>
 This plot demonstrates that there is a significant correlation between the presence of the Sole Survivor and a high overall TWQ score, suggesting that there is a relationship between teams demonstrating a high degree of TWQ and individuals form those teams advancing to win the season.<br>
 
-Cohesion Sole Survivor Comparison<br>
+**Cohesion Sole Survivor Comparison**<br>
 ![image](images/cohesionQuad.PNG)<br>
 The shape of the distribution changes with presence of the Sole Survivor from a uni-modal, left-leaning skew to a bimodal, right-leaning.<br>
 
-Cohesion Final 4 Placement Comparison<br>
+**Cohesion Final 4 Placement Comparison**<br>
 ![image](images/Cohesion4444Quad.PNG)<br>
 The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
 
-Mutual Support Sole Survivor Comparison<br>
+**Mutual Support Sole Survivor Comparison**<br>
 ![image](images/mutualQuad.PNG)<br>
 The shape of the distribution changes with presence of the Sole Survivor and assumes much higher density at higher values of average Mutual Support scores in the groups containing the Sole Survivor.<br>
 
-Mutual Support Final 4 Placement Comparison<br>
+**Mutual Support Final 4 Placement Comparison**<br>
 ![image](images/mutual4444Quad.PNG)<br>
 The shape of the distribution changes with increased number of Final Four Survivors. The most prominent difference is when none of the Final Four Survivors come from a team.<br>
 
