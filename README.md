@@ -206,9 +206,9 @@ A large undertaking would be the inclusion of coding for demographic composition
 
 Lastly, inclusion of ad-hoc team TWQ scoring at individual stages of the game could help study more stochastically formed teams. This could prove and exciting and implementable expansion to the existing set of data collected and scored without significant increase to research scope; this may also capture the more nuanced 'social' game elements that affect players. <br>
 
-
 <br>
-# REFERENCES <br>
+
+# REFERENCES<br>
  
 Boles, T., Croson, R., & Murnighan, J. K. (2000). Deception and retribution in repeated ultimatum bargaining. Organizational Behavior and Human Decision Processes, 83, 235-259. <br>
 
