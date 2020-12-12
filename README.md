@@ -196,6 +196,18 @@ Plots also demonstrate a tapering and bimodal-shaped outcomes effect with more F
 
 <br>
 
+# Future Work<br>
+
+This study would be helped significantly through additional samples and more recorders to establish greater confidence. As a way to reduce the time requirements for recorders, there is potential to review other tools as a Hoegl & Gemuenden's TWQ replacement. This would be difficult though as the TWQ criteria used was selected as an exceptionally fitting tool. <br>
+
+Future work could also increase robustness by analyzing cross-season effects and comparing shifts. This research would track ‘meta-game’ effect sizes, such as challenge advantages, reward challenge prize wins, etc. in the later seasons. <br>
+ 
+A large undertaking would be the inclusion of coding for demographic composition of teams and individuals. Addition of scoring single player performance across the entire game, including factors such as individual wins, voting patterns, etc. would allow a disintegration of the individual versus team effect interaction effects. <br>
+
+Lastly, inclusion of ad-hoc team TWQ scoring at individual stages of the game could help study more stochastically formed teams. This could prove and exciting and implementable expansion to the existing set of data collected and scored without significant increase to research scope; this may also capture the more nuanced 'social' game elements that affect players. <br>
+
+
+<br>
 # REFERENCES <br>
  
 Boles, T., Croson, R., & Murnighan, J. K. (2000). Deception and retribution in repeated ultimatum bargaining. Organizational Behavior and Human Decision Processes, 83, 235-259. <br>
